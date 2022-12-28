@@ -1,13 +1,13 @@
 
 
-<h1 align="center">ꪶ𝗖𝗵𝗲𝗲𝗺𝘀 𝗕𝗼𝘁-𝗠𝗗 𝗩6ꫂ<br></h1>
-<p align="center">
-<img src="https://media.tenor.com/sCkOgr0s6GsAAAAC/cheems-nerd.gif" alt="animated" width="540" height="280" />
-</p>
+<h1 align="center">Dark Nero Bot v7<br></h1>
 
 <p align="center">
-Cheems Bot Multi Device is a automated whatsapp bot developed by <a href="https://github.com/DGXeon" target="_blank">Xeon</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
-</p>
+<img src="https://i.ibb.co/Bnkt1TC/Whats-App-Image-2022-09-12-at-09-02-23.jpg"
+ 
+
+
+
 
 <p align="center">
 Big thanks❤️ to <a href="https://github.com/RaySenpai69" target="_blank">Ray Senpai</a> for huge contribution, Check out his bot <a href="https://github.com/RaySenpai69/Nezuko" target="_blank">Nezuko</a>
@@ -44,13 +44,6 @@ Big thanks❤️ to <a href="https://github.com/RaySenpai69" target="_blank">Ray
 <a href="https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A"><img src="https://img.shields.io/badge/Subscribe Xeon-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtube.com/@DGXeon" /><br>
 </p>
 
-## ```Donate Me```
-
-- [`FamPay`](https://i.ibb.co/SKkw6Sy/IMG-20221223-WA0373.jpg)
-
-<p align="left">
-Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
-</p>
 
 ## ```Bot Support Groups```
 
@@ -60,7 +53,7 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/DGXeon/CheemsBot-MD6/fork)
+- FORK THE REPOSITORY [Here](https://github.com/Kaveeshasithum/Dark-Nero-v7/fork)
 
 ## `Scan QR Code For Session`
 [![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js)
