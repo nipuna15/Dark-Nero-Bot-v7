@@ -3,7 +3,8 @@
 <h1 align="center">Dark Nero Bot v7<br></h1>
 
 <p align="center">
-<img src="https://i.ibb.co/Bnkt1TC/Whats-App-Image-2022-09-12-at-09-02-23.jpg"
+<img src="https://media.tenor.com/sCkOgr0s6GsAAAAC/cheems-nerd.gif" alt="animated" width="540" height="280" />
+</p>
  
 
 
